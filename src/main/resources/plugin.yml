@@ -1,0 +1,10 @@
+name: PrivateStorage
+version: '${version}'
+main: me.yellowstrawberry.privatestorage.PrivateStorage
+api-version: 1.19
+authors: [ Yellowstrawberry ]
+description: PrivateStorage
+website: yellowstrawberry.me
+commands:
+  openPrivateStorage:
+    description: Opens Private Storage
